@@ -1,0 +1,18 @@
+/* All the underlying regular CSS in this file */
+
+h1,h2,h3,h4 {
+	font-family: "freight-neo-pro",sans-serif;
+	font-size: 3em;
+	color: #9aca41;
+}
+
+body {
+	font-family: "freight-sans-condensed-pro",sans-serif;
+	font-size: 1em;
+	font-weight: 300;
+	color: #696766;
+}
+
+.container {
+	padding: 15px;
+}
